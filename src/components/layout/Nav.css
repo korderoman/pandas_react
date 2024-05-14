@@ -1,0 +1,23 @@
+.user-info {
+  color: #fff;
+  background-color: #001529;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Alinea el contenido hacia la derecha */
+  padding: 9px;
+}
+
+.user-info span {
+  margin-right: 10px;
+}
+
+.user-info button {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.logout-icon {
+  margin-left: 10px; /* Espacio entre el icono de usuario y el menú desplegable */
+}

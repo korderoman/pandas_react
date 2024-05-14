@@ -1,0 +1,12 @@
+.styled-table th,
+.styled-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 1px;
+    justify-content: center;
+    text-align: center;
+}
+.custom-table-header .ant-table-thead > tr > th {
+    background-color: #1a3351; /* Color de fondo azul oscuro */
+    color: white; /* Color del texto blanco */
+  }
